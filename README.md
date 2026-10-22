@@ -1,0 +1,1 @@
+This repository holds the code that Wingspan 7431 uses to run Scratchbot. If you'd like to make your own version, please see https://github.com/Wingspan7431Teaching/ScratchbotTemplate, OR if your team uses rev swerve modules, fork this repository and edit the DrivetrainConstants file.
